@@ -1,9 +1,7 @@
 # Exploring Airbnb Market Trends
 
 ## Description
-In this project, we will take a closer look at the New York Airbnb market by combining data from multiple file types.
-
-Three files containing data on 2019 Airbnb listings are available for prices, room types, and reviews.
+This project will delve into the New York Airbnb market in 2019 by combining data from three sources: pricing data, room type information, and review data.
 
 ## Goal
 
