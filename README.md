@@ -8,3 +8,6 @@ Three files containing data on 2019 Airbnb listings are available for prices, ro
 ## Goal
 
 Analyze the data to provide insights on private rooms to a real estate company.
+
+## Key Finding
+In 2019, Airbnb offered 11,356 private room listings with an average nightly rate of $142.
